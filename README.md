@@ -13,11 +13,25 @@
 
 [VK](http://vk.com/russab0) • [TG](http://teleg.run/russab0)
 
+### Требования к ученику:
+- Умение пользоваться мышкой, клавиатурой
+- Умение печатать простой текст (желательно на английской раскладке)
+- Базовые знания английского языка будут преимуществом
+
 ### ПО
-1. [Python 3](https://www.python.org/) - при установке обязательно нажать на галочку, чтобы добавилась переменная среды
-2. [VS Code](https://code.visualstudio.com/) - установить плагин Python
-3. Pylint - `pip install pylint`
+1. **[Python 3](https://www.python.org/)** - при установке обязательно нажать на галочку, чтобы добавилась переменная среды
+2. **[VS Code](https://code.visualstudio.com/)** - установить плагин Python
+3. **Pylint** - `pip install pylint`
 4. [GitHub](https://github.com/)
+
+жирные - обязательно
+
+### Полезные ссылки
+- [Питонтьютор](https://pythontutor.ru) - основной сайт
+- [Snakify](https://snakify.org/join_class/russabirov1998/mail.ru/) - английская версия тьютора. При регистрации использовать только эту ссылку
+- [Kahoot](http://kahoot.it) - платформа для проведения тестов
+- [Informatics](https://informatics.msk.ru/course/view.php?id=2553) - дополнительная теория+задачи
+- [ACMP](http://acmp.ru), [Timus](http://acm.timus.ru/), [Codeforces](http://codeforces.com) - еще больше задач
 
 ## Структура
 _Возможны изменения в программе!_
