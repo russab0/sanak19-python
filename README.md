@@ -1,8 +1,28 @@
-## Welcome to GitHub Pages
+# Основы программирования на Python. Сәләт-Санак 2019
+## Основное
 
-You can use the [editor on GitHub](https://github.com/russab0/sanak19-python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### О смене
+Летняя IT-смена сообщества Сәләт
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[VK](http://vk.com/selet.sanak) •
+[Insta](http://instagram.com/selet.sanak) •
+[Сайт](http://selet.biz)
+
+### Преподаватель
+Руслан абый Сабиров
+
+[VK](http://vk.com/russab0) • [TG](http://teleg.run/russab0)
+
+### ПО
+1. [Python 3](https://www.python.org/) - при установке обязательно нажать на галочку, чтобы добавилась переменная среды
+2. [VS Code](https://code.visualstudio.com/) - установить плагин Python
+3. Pylint - `pip install pylint`
+4. [GitHub](https://github.com/)
+
+## Структура
+1. Основы языка
+2. Изучение тем для проекта
+3. Создание проекта
 
 ### Markdown
 
