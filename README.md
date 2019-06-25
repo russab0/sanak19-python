@@ -21,7 +21,7 @@
 ### ПО
 1. **[Python 3](https://www.python.org/)** - при установке обязательно нажать на галочку, чтобы добавилась переменная среды
 2. **[VS Code](https://code.visualstudio.com/)** - установить плагин Python
-3. **Pylint** - `pip install pylint`
+3. **[Pylint](https://pypi.org/project/pylint/)** - `pip install pylint`
 4. [GitHub](https://github.com/)
 
 жирные - обязательно
