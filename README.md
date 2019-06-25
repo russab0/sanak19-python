@@ -19,8 +19,9 @@
 - Базовые знания английского языка будут преимуществом
 
 ### ПО
-1. **[Python 3](https://www.python.org/)** - при установке обязательно нажать на галочку, чтобы добавилась переменная среды
-2. **[VS Code](https://code.visualstudio.com/)** - установить плагин Python
+1. **[Python 3](https://www.python.org/)** - интерпретатор (при установке обязательно нажать на галочку "Add Python 3.x to PATH")
+2. **[VS Code](https://code.visualstudio.com/)** - IDE
+3. **[Python extenstion](https://marketplace.visualstudio.com/items?itemName=ms-python.python)** - плагин для IDE
 3. **[Pylint](https://pypi.org/project/pylint/)** - `pip install pylint`
 4. [GitHub](https://github.com/)
 
