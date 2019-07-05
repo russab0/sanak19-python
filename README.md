@@ -20,8 +20,7 @@
 
 ### ПО
 1. **[Python 3](https://www.python.org/)** - интерпретатор (при установке обязательно нажать на галочку "Add Python 3.x to PATH")
-2. **[VS Code](https://code.visualstudio.com/)** - IDE
-3. **[Python extenstion](https://marketplace.visualstudio.com/items?itemName=ms-python.python)** - плагин для IDE
+2. **[WingIDE 101](https://wingware.com/downloads/wingide-101)** - IDE
 3. **[Pylint](https://pypi.org/project/pylint/)** - `pip install pylint`
 4. [GitHub](https://github.com/)
 
@@ -50,7 +49,7 @@ _Возможны изменения в программе!_
 | 5   | 19 июня | Цикл for                     |   |   |
 | 6   | 20 июня | Строки / Цикл while          |   |   |
 | 7   | 21 июня | Списки                       |   |   |
-| 8   | 22 июня | Функции                      |   |   |
+| 8   | 22 июня | Функции. Ввведение в проект  |   |   |
 | 9   | 23 июня | Проект                       |   |   |
 | 10  | 24 июня | Проект                       |   |   |
 | 11  | 25 июня | Проект                       |   |   |
